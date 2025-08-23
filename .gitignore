@@ -1,0 +1,22 @@
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables  
+.env
+*.env
+
+# Uploads
+legallens-brain/uploads/
+
+# Build outputs
+legallens-face/build/
+legallens-face/.DS_Store
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
