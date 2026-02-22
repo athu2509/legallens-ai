@@ -20,3 +20,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Python virtual environment
+venv/
+
+# ChromaDB data
+chroma_data/
+
+# Editor settings
+.vscode/
